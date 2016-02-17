@@ -1,4 +1,4 @@
-// echoToFile.js - Write in a given file all the parameters passed on the CLI
+// replace-in-xml.js 
 "use strict";
 var fs = require('fs');
 var system = require('system');
